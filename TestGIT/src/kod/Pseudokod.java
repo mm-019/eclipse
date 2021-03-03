@@ -9,7 +9,7 @@ package kod;
 //
 //		// lägger till lite text
 //
-//		// text text text text text text text text text
+//		
 //
 //
 //
